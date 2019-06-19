@@ -1,2 +1,0 @@
-# NameTagGenerator
-Created with CodeSandbox
